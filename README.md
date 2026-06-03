@@ -235,31 +235,6 @@ The system provides:
 
 
 
-
-
-
-##### 📷 Project Images
-
-
-
-###### Circuit Setup
-
-
-
-images/circuit\_connection.jpg
-
-
-
-
-
-###### ThingSpeak Dashboard
-
-
-
-images/thingspeak\_output.png
-
-
-
 ##### 💻 Software Requirements
 
 
