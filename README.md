@@ -283,7 +283,7 @@ Environmental-Black-Box-Recorder/
 
 ├── images/
 
-│   ├── circuit\_connection.jpg
+│   ├── circuit\_connection.png
 
 │   └── thingspeak\_output.png
 
