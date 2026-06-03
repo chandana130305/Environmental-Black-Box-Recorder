@@ -1,0 +1,16 @@
+Component list:
+• 1 x ESP-32 WROOM
+• 1 x B-10 Buzzer
+• 1 x DHT11 Module
+• 5 x Resistor ( 100R )
+• 1 x Breadboard 830 pt
+• 1 x USB Cable
+• 1 x LDR module
+• 1 x Jumper wire (male to Male) - 40 pcs
+• 1 x Jumper Wire (male to female)- 20 pcs
+• 1 x tilt switch
+• 10 x Led (each colour)
+• 1 x Soil Moisture Sensor
+• 1 x MQ-2 gas Sensor Module
+• 1 x Servo Motor
+• 1 x Water level Sensor    
